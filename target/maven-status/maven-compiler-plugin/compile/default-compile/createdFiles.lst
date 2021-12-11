@@ -1,0 +1,6 @@
+com/usa/ciclo4/reto/RetoApplication.class
+com/usa/ciclo4/reto/controller/UserController.class
+com/usa/ciclo4/reto/service/UserService.class
+com/usa/ciclo4/reto/repository/crud/UserCrudRepository.class
+com/usa/ciclo4/reto/repository/UserRepository.class
+com/usa/ciclo4/reto/model/User.class
